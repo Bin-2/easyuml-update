@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.8//EN" "https://netbeans.apache.org/dtds/autoupdate-catalog-2_8.dtd">
+<module_updates timestamp="07/01/14/07/09/2026">
+
+
+
+<module_group name="Tools">
+
+<module codenamebase="org.uml.dom4j" distribution="org-uml-dom4j.nbm" downloadsize="321398" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.uml.dom4j" OpenIDE-Module-Display-Category="Tools" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="This module is a part of easyUML tool and contains a wrapped dom4j library." OpenIDE-Module-Name="dom4j" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="This module is a part of easyUML tool and contains a wrapped dom4j library." OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="1e375b9d442a9fe024953e3f04b94ec9b8a2f2c3b89a31ac6c98357bbd974f78a629ec28211072fbafadbbb05e7041a434452eaac8edbc5f2fad71cfb637cca7"/>
+</module>
+
+<module codenamebase="com.github.javaparser" distribution="com-github-javaparser.nbm" downloadsize="247973" homepage="" license="B84C6956" moduleauthor="" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="com.github.javaparser" OpenIDE-Module-Display-Category="Tools" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="JavaParser for parsing of Java files and code generation. Java 8 code supported. http://javaparser.github.io/javaparser/" OpenIDE-Module-Name="JavaParser" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="JavaParser with Java 8 support. http://javaparser.github.io/javaparser/" OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="f1db3a3663be8033058e2ac00c1c6052356ec373be82ef878d1813adf0576146868dccfe5b027b91613ef0aa2bed24a06f60ff62ab9458415033e6cd23814cf1"/>
+</module>
+
+<module codenamebase="org.uml.newcode" distribution="org-uml-newcode.nbm" downloadsize="33759" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.uml.newcode" OpenIDE-Module-Display-Category="Tools" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="This module is a part of easyUML tool and contains support for code generation." OpenIDE-Module-Module-Dependencies="com.github.javaparser &gt; 1.6, org.netbeans.api.templates &gt; 1.7.1, org.netbeans.modules.projectapi/1 &gt; 1.60.2, org.netbeans.modules.projectuiapi/1 &gt; 1.78.1.8, org.netbeans.modules.projectuiapi.base/1 &gt; 1.83.1.9, org.openide.awt &gt; 7.62.1, org.openide.filesystems &gt; 8.12.1, org.openide.filesystems.compat8 &gt; 9.9.1, org.openide.filesystems.nb &gt; 9.9.2, org.openide.loaders &gt; 7.57.2, org.openide.nodes &gt; 7.39.1, org.openide.util &gt; 8.39.1, org.openide.util.lookup &gt; 8.25.1, org.openide.util.ui &gt; 9.6.1, org.openide.windows &gt; 6.71.1, org.uml.filetype &gt; 1.6, org.uml.model &gt; 1.6" OpenIDE-Module-Name="UMLCodeGenerator" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="This module is a part of easyUML tool and contains support for code generation." OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="067f0edb88abf97049cae69935b7752c09c0ecaf9999f7f8d7d93d5928783c4197441e57b3bc563790a1ac643e7bc09c0bcf036dbab0c7fa6e78b56554125217"/>
+</module>
+
+<module codenamebase="org.uml.model" distribution="org-uml-model.nbm" downloadsize="34889" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.uml.model" OpenIDE-Module-Display-Category="Tools" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="This module is a part of easyUML and  contains  classes for creating object models of uml class diagrams" OpenIDE-Module-Module-Dependencies="com.github.javaparser &gt; 1.6" OpenIDE-Module-Name="UMLModel" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="This module is a part of easyUML and  contains  classes for creating object models of uml class diagrams" OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="476409d30dc2ea07b9859073d1300b51d114b0355a3993bb4b72a26e26886947f10e5f711262c71302fb68538fb8091f04017782f6b25cdd2bb42aba961728e1"/>
+</module>
+
+</module_group>
+
+<module_group name="UML">
+
+<module codenamebase="easyuml" distribution="easyuml.nbm" downloadsize="11781" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="easyuml" OpenIDE-Module-Display-Category="UML" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="easyUML provides UML drawing features, code generation and creation of UML class diagrams from Java code. It is being developed at Open Source Software Development Center at Faculty of Organisational Sciences, University of Belgrade.IMT Mines Ales" OpenIDE-Module-Module-Dependencies="com.github.javaparser &gt; 1.6, org.uml.dom4j &gt; 1.6, org.uml.explorer &gt; 1.6, org.uml.filetype &gt; 1.6, org.uml.model &gt; 1.6, org.uml.newcode &gt; 1.6, org.uml.project &gt; 1.6, org.uml.reveng &gt; 1.6, org.uml.visual &gt; 1.6" OpenIDE-Module-Name="easyUML" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="easyUML is simple, easy to use NetBeans UML Plugin" OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="081b70e8c378d8f6b0d8d73a038be793ff90f110996dbb68ae3ee0fa990ac696cc086d875012bf26e29f96c94555a3c4157afa1546176c1e4ebc6be77069c9a6"/>
+</module>
+
+<module codenamebase="org.uml.explorer" distribution="org-uml-explorer.nbm" downloadsize="672363" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.uml.explorer" OpenIDE-Module-Display-Category="UML" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="This module is a part of easyUML tool and provides support for explorer tree view for UML class diagrams." OpenIDE-Module-Module-Dependencies="org.netbeans.api.templates &gt; 1.7.1, org.netbeans.api.visual &gt; 2.43.1, org.netbeans.modules.settings/1 &gt; 1.45.1, org.openide.actions &gt; 6.35.1, org.openide.awt &gt; 7.62.1, org.openide.explorer &gt; 6.57.1, org.openide.loaders &gt; 7.57.2, org.openide.nodes &gt; 7.39.1, org.openide.util &gt; 8.39.1, org.openide.util.lookup &gt; 8.25.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.71.1, org.uml.model &gt; 1.6" OpenIDE-Module-Name="UMLExplorer" OpenIDE-Module-Requires="org.openide.util.spi.SVGLoader, org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="This module is a part of easyUML tool and provides support for explorer tree view for UML class diagrams." OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="ab4b44113aa942f316e86398f1cae2d1120ef47405f12cf6451cff446fd5822a00fe810dfac7aa91e65cbcacf959c0aff1435c3f016ca95bfbedb3eca4d17d53"/>
+</module>
+
+<module codenamebase="org.uml.filetype" distribution="org-uml-filetype.nbm" downloadsize="27744" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.uml.filetype" OpenIDE-Module-Display-Category="UML" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="This module is a part of easyUML tool and provides support for UML diagram file types." OpenIDE-Module-Module-Dependencies="org.netbeans.api.templates &gt; 1.6.1, org.netbeans.api.visual &gt; 2.43.1, org.netbeans.core.multiview/1 &gt; 1.40.1, org.netbeans.modules.projectapi/1 &gt; 1.60.2, org.openide.awt &gt; 7.62.1, org.openide.dialogs &gt; 7.38.1, org.openide.explorer &gt; 6.57.1, org.openide.filesystems &gt; 8.12.1, org.openide.filesystems.compat8 &gt; 9.9.1, org.openide.filesystems.nb &gt; 9.9.2, org.openide.loaders &gt; 7.57.2, org.openide.nodes &gt; 7.39.1, org.openide.text &gt; 6.62.2, org.openide.util &gt; 8.39.1, org.openide.util.lookup &gt; 8.25.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.71.1, org.uml.dom4j &gt; 1.6, org.uml.model &gt; 1.6, org.uml.visual &gt; 1.6" OpenIDE-Module-Name="UMLFileTypes" OpenIDE-Module-Requires="org.openide.util.spi.SVGLoader, org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="This module is a part of easyUML tool and provides support for UML diagram file types." OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="47d4c86f6861f10004cee43591c812211bd49914de9d4ad2da72ec3393aca5e72f412b5a4424d7ae8e523682369f5c3de4b03a604fcfaa3aa033d77fccee0c89"/>
+</module>
+
+<module codenamebase="org.uml.project" distribution="org-uml-project.nbm" downloadsize="29882" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.uml.project" OpenIDE-Module-Display-Category="UML" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="This module is a part of easyUML and contains support for easyUML project type." OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.24.1, org.netbeans.api.templates &gt; 1.6.1, org.netbeans.modules.projectapi/1 &gt; 1.60.2, org.netbeans.modules.projectuiapi/1 &gt; 1.78.1.8, org.netbeans.modules.projectuiapi.base/1 &gt; 1.83.1.9, org.openide.awt &gt; 7.62.1, org.openide.dialogs &gt; 7.38.1, org.openide.filesystems &gt; 8.12.1, org.openide.filesystems.compat8 &gt; 9.9.1, org.openide.filesystems.nb &gt; 9.9.2, org.openide.loaders &gt; 7.57.2, org.openide.nodes &gt; 7.39.1, org.openide.util &gt; 8.39.1, org.openide.util.lookup &gt; 8.25.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.71.1, org.uml.filetype &gt; 1.6" OpenIDE-Module-Name="UMLProjectType" OpenIDE-Module-Requires="org.openide.util.spi.SVGLoader, org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="This module is a part of easyUML and contains support for easyUML project type." OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="14d4ebbb1743b7cbaabe85e2f02924ea804244e422e1f3ab1e78fb065aedb874d3e7d5b3bb494e701895c610ed92fe278a8ed0ef9729a4e00a946c6746aec1c4"/>
+</module>
+
+<module codenamebase="org.uml.reveng" distribution="org-uml-reveng.nbm" downloadsize="27775" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.uml.reveng" OpenIDE-Module-Display-Category="UML" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="This module is a part of easyUML tool and contains support for reverse engineering - creating class diagrams from Java code." OpenIDE-Module-Module-Dependencies="com.github.javaparser &gt; 1.6, org.apache.commons.commons_io &gt; 1.4, org.netbeans.api.templates &gt; 1.7.1, org.netbeans.api.visual &gt; 2.43.1, org.netbeans.modules.projectapi/1 &gt; 1.60.2, org.netbeans.modules.projectuiapi/1 &gt; 1.78.1.8, org.netbeans.modules.projectuiapi.base/1 &gt; 1.83.1.9, org.openide.awt &gt; 7.62.1, org.openide.explorer &gt; 6.57.1, org.openide.filesystems &gt; 8.12.1, org.openide.filesystems.compat8 &gt; 9.9.1, org.openide.filesystems.nb &gt; 9.9.2, org.openide.loaders &gt; 7.57.2, org.openide.nodes &gt; 7.39.1, org.openide.util &gt; 8.39.1, org.openide.util.lookup &gt; 8.25.1, org.openide.util.ui &gt; 9.6.1, org.openide.windows &gt; 6.71.1, org.uml.dom4j &gt; 1.6, org.uml.filetype &gt; 1.6, org.uml.model &gt; 1.6, org.uml.newcode &gt; 1.6, org.uml.project &gt; 1.6, org.uml.visual &gt; 1.6" OpenIDE-Module-Name="UMLReverseEngineering" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="This module is a part of easyUML tool and contains support for reverse engineering - creating class diagrams from Java code." OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="4903bff8bf93486043524c8a5ac805f5ac63f3299cecc41130099b6a787e94b778d4d0c8ef5420319184c0d04460dc5a6c8a7a86e594e778992579371ff85ea2"/>
+</module>
+
+<module codenamebase="org.uml.visual" distribution="org-uml-visual.nbm" downloadsize="5183555" homepage="https://java.net/projects/nb-uml-plugin" license="B2B74E56" moduleauthor="Open Source Software Development Center, Faculty of Organisational Sciences, University of Belgrade" needsrestart="false" releasedate="2026/09/07" targetcluster="nbuml">
+        
+    <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.uml.visual" OpenIDE-Module-Display-Category="UML" OpenIDE-Module-Implementation-Version="260907" OpenIDE-Module-Java-Dependencies="Java &gt; 21" OpenIDE-Module-Long-Description="This module is a part of easyUML tool and provides support for UML visual editor." OpenIDE-Module-Module-Dependencies="org.netbeans.api.templates &gt; 1.7.1, org.netbeans.api.visual &gt; 2.43.1, org.netbeans.modules.settings/1 &gt; 1.45.1, org.netbeans.spi.navigator/1 &gt; 1.33.1, org.netbeans.spi.palette/1 &gt; 1.42.1, org.openide.awt &gt; 7.62.1, org.openide.dialogs &gt; 7.38.1, org.openide.explorer &gt; 6.57.1, org.openide.filesystems &gt; 8.12.1, org.openide.filesystems.compat8 &gt; 9.9.1, org.openide.filesystems.nb &gt; 9.9.2, org.openide.loaders &gt; 7.57.2, org.openide.nodes &gt; 7.39.1, org.openide.util &gt; 8.39.1, org.openide.util.lookup &gt; 8.25.1, org.openide.util.ui &gt; 9.4.1, org.openide.windows &gt; 6.71.1, org.uml.dom4j &gt; 1.6, org.uml.explorer &gt; 1.6, org.uml.model &gt; 1.6" OpenIDE-Module-Name="UMLVisual" OpenIDE-Module-Requires="org.openide.util.spi.SVGLoader, org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="This module is a part of easyUML tool and provides support for UML visual editor." OpenIDE-Module-Specification-Version="1.6"/>
+        
+
+    <message_digest algorithm="SHA-512" value="ac2c9b2c01e7a61fd3d630d64a774a7f93a593a93ea3da5614132693e9b2f930d8f8459238af388e823d26f21b45198204b0517b93663ca8c22ce6cbf9203a54"/>
+</module>
+
+</module_group>
+
+<license name="B2B74E56" url="licenses/B2B74E56.license"/>
+<license name="B84C6956" url="licenses/B84C6956.license"/>
+</module_updates>
+
