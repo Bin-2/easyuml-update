@@ -6,7 +6,7 @@ Source code: https://github.com/Bin-2/easyuml
 
 ## Installation
 
-1. Open **NetBeans ? Tools ? Plugins ? Settings**.
+1. Open **NetBeans → Tools → Plugins → Settings**.
 2. Click **Add**.
 3. Enter a name such as `easyUML Update Center`.
 4. Set the URL to the public URL of this repository's `updates.xml`.
@@ -20,7 +20,7 @@ NetBeans will automatically resolve and install the required easyUML modules.
 
 ## Contents
 
-- `updates.xml` � NetBeans Update Center catalog
-- `easyuml.nbm` � main easyUML plugin
+- `updates.xml` — NetBeans Update Center catalog
+- `easyuml.nbm` — main easyUML plugin
 - supporting `.nbm` modules required by easyUML# easyuml-update
 
