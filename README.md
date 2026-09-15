@@ -10,6 +10,9 @@ Source code: https://github.com/Bin-2/easyuml
 2. Click **Add**.
 3. Enter a name such as `easyUML Update Center`.
 4. Set the URL to the public URL of this repository's `updates.xml`.
+     ```
+     https://raw.githubusercontent.com/Bin-2/easyuml-update/main/updates.xml
+     ```
 5. Open the **Available Plugins** tab.
 6. Search for **easyUML** and install it.
 
