@@ -1,4 +1,4 @@
-Prebuilt easyUML modules for Apache NetBeans 24 / JDK 21.
+Prebuilt easyUML modules for Apache NetBeans 24 / JDK 21 (installable for later versions).
 
 This repository contains the `.nbm` packages and `updates.xml` catalog required to install and update easyUML directly from NetBeans.
 
