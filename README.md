@@ -1,4 +1,4 @@
-# easyUML 1.7.6
+# easyUML 1.7.12
 
 Prebuilt easyUML plugin for NetBeans, providing UML class diagrams, Java code
 generation and reverse engineering. The plugin is distributed as a single
